@@ -19,7 +19,7 @@ Alert Description:  Why do we have this alert?  What does it mean?  What is typi
 ####Impact to Customers:
 How does this situation impact our customers?  If the customers are not being impacted, this is a good indicator that the alert can be deleted.
 
-####Remediation Steps
+####Remediation Steps:
 Checklist manifesto style steps for how to resolve this alert.  A person who has never worked on our stack should be able to follow these steps and remediate the incident.  If it cannot be remediated, include escalation steps here.
  1. Do this
  2. Check this graph
