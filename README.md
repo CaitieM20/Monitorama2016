@@ -7,6 +7,7 @@ Systems that generate numerous critical alerts result in alert fatigue which can
 ##References
 * [How one Hospital Tweaks its EHR to fight alert fatigue](http://www.healthcareitnews.com/news/how-one-hospital-tweaks-its-ehr-fight-alert-fatigue)
 * [Applying Cardiac Alarm Management to your Oncall](http://fractio.nl/2014/08/26/cardiac-alarms-and-ops/)
+* [Checklist Manifesto](http://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 
 
 ##Related Tweets
