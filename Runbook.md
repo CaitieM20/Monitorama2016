@@ -28,7 +28,7 @@ Checklist manifesto style steps for how to resolve this alert.  A person who has
  5. Verify service has recovered
  
 ##Contact Info
-Team contact info.  Potentially contact info for who to escalate to
+Team contact info.  Potentially contact info for who to escalate to.  What services do we have dependencies on?  How do we escalate to them?  Define this information here.  
 
 ##Latest Deployments
 We do Production Change Management Deployments via Jira, we included a link of all the latest changes here.  Recent commits, CI log etc... is incredibly helpful in understanding what code is deployed to the system, what recent changes were made.
