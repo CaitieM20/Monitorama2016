@@ -1,4 +1,4 @@
-# Recovering From Alert Fatigue
+# Tackling Alert Fatigue
 Accompanying Repository for the "Recovering From Alert Fagitue" talk given at [Monitorama 2016](http://monitorama.com/)
 
 ##Abstract
