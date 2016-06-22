@@ -9,6 +9,10 @@ Systems that generate numerous critical alerts result in alert fatigue which can
 * [Applying Cardiac Alarm Management to your Oncall](http://fractio.nl/2014/08/26/cardiac-alarms-and-ops/)
 * [Checklist Manifesto](http://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 
+##Observability at Twitter
+* [Technical Overview Part 1](https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-i)
+* [Technical Overview Part 2](https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-ii)
+* [Of the Order of Billions: Building Observability at Twitter](https://www.youtube.com/watch?v=SC6XuD1tgcQ)
 
 ##Related Tweets
 * (https://twitter.com/mrtazz/status/626107423443410944)
