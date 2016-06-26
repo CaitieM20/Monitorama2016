@@ -9,6 +9,7 @@ Systems that generate numerous critical alerts result in alert fatigue which can
 * [How one Hospital Tweaks its EHR to fight alert fatigue](http://www.healthcareitnews.com/news/how-one-hospital-tweaks-its-ehr-fight-alert-fatigue)
 * [Applying Cardiac Alarm Management to your Oncall](http://fractio.nl/2014/08/26/cardiac-alarms-and-ops/)
 * [Checklist Manifesto](http://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
+* [Engineering for the Long Game](https://www.infoq.com/presentations/continuous-innovation-systems-organizations/?utm_source=lanyrd&utm_medium=coverage&utm_campaign=lanyrdsfvideos)
 * [WTF is OPerations? #serverless](https://charity.wtf/2016/05/31/wtf-is-operations-serverless/)
 * [Devops for Developers Building an Effective Ops Org](http://www.ustream.tv/recorded/86181845)
 
