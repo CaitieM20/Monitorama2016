@@ -1,5 +1,5 @@
 # Tackling Alert Fatigue
-Accompanying Repository for the "Recovering From Alert Fagitue" talk given at [Monitorama 2016](http://monitorama.com/)
+Accompanying Repository for the "Recovering From Alert Fagitue" talk given at [Monitorama 2016](http://monitorama.com/) [[Slides](https://speakerdeck.com/caitiem20/tackling-alert-fatigue)]
 
 ##Abstract
 Systems that generate numerous critical alerts result in alert fatigue which can result in service outages and developer burnout.  My team at Twitter found themselves in this situation.  The services had scaled by an order of magnitude in two years and were generating hundreds of alerts per quarter. Over the course of a quarter I led an initiative to decrease the number of alerts, improve the experience of being on call, and increase the reliability of the services.  These efforts were incredibly successful reducing the number of critical alerts by 50%.  In this talk I’ll discuss the process and alerting best practices we’ve put in places to successfully combat alert fatigue and avoid over alerting in the future.
