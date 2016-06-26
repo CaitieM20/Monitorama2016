@@ -10,6 +10,7 @@ Systems that generate numerous critical alerts result in alert fatigue which can
 * [Applying Cardiac Alarm Management to your Oncall](http://fractio.nl/2014/08/26/cardiac-alarms-and-ops/)
 * [Checklist Manifesto](http://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 * [WTF is OPerations? #serverless](https://charity.wtf/2016/05/31/wtf-is-operations-serverless/)
+* [Devops for Developers Building an Effective Ops Org](http://www.ustream.tv/recorded/86181845)
 
 ##Observability at Twitter
 * [Technical Overview Part 1](https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-i)
